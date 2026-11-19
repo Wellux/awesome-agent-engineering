@@ -486,6 +486,7 @@ Autonomy needs a kill switch, a sandbox and a scoreboard.
 - **[agent-blackbox](https://github.com/umanitek/agent-blackbox)** `★ 69` · Guardian that keeps AI agents from being tricked or compromised.
 - **[fluegel](https://github.com/steipete/fluegel)** `★ 46` · macOS menu bar app that runs whitelisted CLI tools with privacy permissions for local agents.
 - **[litellm-guardrails](https://github.com/BerriAI/litellm-guardrails)** `★ 17` · Registry of public custom code guardrails for the LiteLLM proxy server.
+- **[hol-guard](https://github.com/hashgraph-online/hol-guard)** · Adds local policy checks and approval prompts for supported AI coding-agent actions.
 
 ### Evals and benchmarks
 
